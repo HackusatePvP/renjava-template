@@ -1,5 +1,5 @@
 # Template
-This is a starting maven template for [RenJava](https://github.com/HackusatePvP/RenJava). Download the code and extract to projects folder. Open with an IDEA of your choosing
+This is a starting maven template for [RenJava](https://github.com/HackusatePvP/RenJava). Download the code and extract to projects folder. Open with an IDEA of your choosing and follow the instructions to build the project.
 
 ## IDEA
 I personally use [intellij](https://www.jetbrains.com/idea/). If you are using RenJava for commercial use please read the license.
@@ -30,4 +30,3 @@ Please download and run [RSDK](https://github.com/HackusatePvP/RenJavaSDK/releas
 Use `mvn clean install` to compile the project. Use RSDK to create the testing environment. Use the 'start.bat' to test your game as you make it.
 
 Note: You will have to re-compile everytime you modify the code. `mvn clean install`. Put that newly built jar file which is located in `target/` inside the testing directory. Overwrite the file if prompted.
-
